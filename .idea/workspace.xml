@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c7192a-bec3-46eb-9e5d-73edc3cbccde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/compontens/AppHeader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compontens/AppHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/SportsEvent/SportsEvent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/route.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/js/rem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,8 +85,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="-19">
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -172,8 +159,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="265" />
-    <option name="y" value="57" />
+    <option name="x" value="560" />
+    <option name="y" value="33" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
   </component>
@@ -290,15 +277,15 @@
       <updated>1548323561099</updated>
       <workItem from="1548323562462" duration="839000" />
       <workItem from="1548375443516" duration="8318000" />
-      <workItem from="1549934800229" duration="404000" />
+      <workItem from="1549934800229" duration="870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9561000" />
+    <option name="totallyTimeSpent" value="10027000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="854" y="23" width="1440" height="810" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -537,8 +524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="-19">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
